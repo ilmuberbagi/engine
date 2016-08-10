@@ -10,6 +10,7 @@ import argparse
 #
 
 dir = '/var/www/assets_ilmuberbagi_id/data/json/'
+# directory for local test
 # dir = 'data/json/'
 
 def main():
